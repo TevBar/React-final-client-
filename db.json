@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "df59"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "users": [
+    {
+      "username": "Malory",
+      "id": "1",
+      "name": "Mal"
+    },
+    {
+      "id": "e1ea",
+      "username": "tev",
+      "email": "tev@test.com",
+      "password": "tev1234"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
